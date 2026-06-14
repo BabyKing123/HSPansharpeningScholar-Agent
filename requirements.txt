@@ -1,0 +1,12 @@
+# Runtime dependencies for HSPansharpeningScholar-Agent.
+# Python: 3.10+
+
+# PDF text parsing in rag/parser.py.
+pypdf>=5.1.0
+
+# PDF page rendering and figure/table extraction in multimodal/extractor.py.
+PyMuPDF>=1.24.0
+
+# GraphRAG community detection in graph/community.py.
+networkx>=3.4.2
+python-louvain>=0.16
