@@ -2043,7 +2043,7 @@ def main() -> None:
     llm_client = initialize_llm_client(config)
     answer_model = str(config.get("dashscope_answer_model", "qwen3.7-plus"))
     analysis_model = str(config.get("dashscope_analysis_model", "deepseek-v4-pro"))
-    vision_model = str(config.get("dashscope_vision_model", "qwen-vl-plus"))
+    vision_model = str(config.get("dashscope_vision_model", "qwen3.7-plus"))
     embedding_model = str(config.get("dashscope_embedding_model", "text-embedding-v4"))
     embedding_dimensions = int(config.get("dashscope_embedding_dimensions", 128))
     graph_enabled = bool(config.get("graph_enabled", True))
