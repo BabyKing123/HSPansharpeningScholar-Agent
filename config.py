@@ -13,7 +13,7 @@ RAW_PAPERS_DIR = DATA_DIR / "raw_papers"
 PROCESSED_DATA_DIR = DATA_DIR / "processed"
 OUTPUT_DIR = BASE_DIR / "outputs"
 
-DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "sk-3ba29d5b5ef64c1ba1dcc54e3e7194c4").strip()
+DASHSCOPE_API_KEY = os.getenv("DASHSCOPE_API_KEY", "请在这里输入百炼平台的API").strip()
 DASHSCOPE_BASE_URL = os.getenv(
     "DASHSCOPE_BASE_URL",
     "https://dashscope.aliyuncs.com/compatible-mode/v1",
