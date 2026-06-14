@@ -303,7 +303,12 @@ $env:VISION_ENABLED="true"
 data/raw_papers/
 ```
 
-当前项目已经包含若干高光谱全色锐化和遥感图像融合方向论文，可直接用于构建本地知识库。
+**由于论文太多无法直接上传到Github,因此在运行代码之前一定要通过百度网盘链接:
+https://pan.baidu.com/s/1eZmMOFuscDp2R9Bi1cQVYQ?pwd=1fhk 提取码: 1fhk 
+下载data数据集并复制到项目中**
+
+
+
 
 ### 4. 启动程序
 
