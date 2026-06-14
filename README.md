@@ -305,7 +305,7 @@ data/raw_papers/
 
 **由于论文太多无法直接上传到Github,因此在运行代码之前一定要通过百度网盘链接:
 https://pan.baidu.com/s/1eZmMOFuscDp2R9Bi1cQVYQ?pwd=1fhk 提取码: 1fhk 
-下载data数据集并复制到项目中**
+下载data文件夹并复制到项目中**
 
 
 
