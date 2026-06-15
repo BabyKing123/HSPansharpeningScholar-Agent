@@ -388,7 +388,7 @@ compare 1,2
 workflow 高光谱全色锐化方法综述
 ```
 
-说明：当前项目已经生成普通向量索引、GraphRAG 图谱索引和多模态图表索引。评阅时可优先使用 `papers`、`graph_status`、`vision_status`、`analyze`、`compare`、`outline`、`workflow` 等命令查看结果；如果重新执行 `rebuild_index`、`rebuild_graph` 或 `rebuild_vision`，由于论文数量较多，耗时可能较长。
+**说明：当前项目已经生成普通向量索引、GraphRAG 图谱索引和多模态图表索引。评阅时可优先使用 `papers`、`graph_status`、`vision_status`、`analyze`、`compare`、`outline`、`workflow` 等命令查看结果；如果重新执行 `rebuild_index`、`rebuild_graph` 或 `rebuild_vision`，由于论文数量较多，耗时可能较长。**
 
 
 ## 配置说明
